@@ -1,0 +1,19 @@
+{
+    "records": [
+      {
+        "id": 8721,
+        "resource": "Front-end Development",
+        "author": "BVC"
+      },
+      {
+        "id": 5779,
+        "resource": "Back-end Development",
+        "author": "John Doe"
+      },
+      {
+        "id": 3406,
+        "resource": "Dev Tools",
+        "author": "Jack Riffson"
+      }
+    ]
+  }

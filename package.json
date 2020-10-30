@@ -19,6 +19,10 @@
     "SQL",
     "core-api"
   ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  },
   "author": "Brandon VanCamp",
   "license": "MIT",
   "bugs": {
