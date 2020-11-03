@@ -28,21 +28,21 @@ app.put('/resources/:id', async (req, res) => {
     const resource = await records.updateResource(req.params.id);
     console.log("Updating resource with id: " + req.params.id);
     res.json(resource);
-})
+});
 
 // Send a DELETE request to /resources/:id DELETE a resource
 app.delete('/resources/:id', async (req, res) => {
     const resource = await records.deleteResource(req.params.id);
     console.log("Deleting resource with id: " + req.params.id);
     res.json(resource);
-})
+});
 
 // Send a GET request to /resources/resource/random to READ (view) a random resource
 app.get('/resources/resource/random', async (req, res) => {
     const resource = await records.getRandomResource();
     console.log("Retrieving random resource...");
     res.json(resource);
-})
+});
 
 // ============================================================================================= //
 
