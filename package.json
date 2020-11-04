@@ -1,0 +1,35 @@
+{
+  "name": "nodekraft-core-api",
+  "version": "1.0.0",
+  "description": "nodeKrafts core api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekraft/nodekraft-core-api.git"
+  },
+  "keywords": [
+    "api",
+    "nodekraft",
+    "node",
+    "js",
+    "mongoDB",
+    "SQL",
+    "core-api"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  },
+  "authors": [
+    "Brandon VanCamp",
+    "Stamati Morellas"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodekraft/nodekraft-core-api/issues"
+  },
+  "homepage": "https://github.com/nodekraft/nodekraft-core-api#readme"
+}
