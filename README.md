@@ -20,14 +20,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/nodekraft/nodekraft-core-api">
+    <img src="assets/images/nodekraft.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Nodekraft Core-API</h3>
 
   <p align="center">
-    nodekraft's core API for resource docs &amp; knowledge system applications.
+    Nodekraft's core API for resource docs &amp; knowledge system applications.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
