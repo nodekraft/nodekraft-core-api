@@ -23,11 +23,13 @@
     "body-parser": "^1.19.0",
     "express": "^4.16.4",
     "nodemon": "^1.18.9",
+    "sequelize": "^6.3.5",
     "sqlite3": "^5.0.0"
   },
   "authors": [
     "Brandon VanCamp",
-    "Stamati Morellas"
+    "Stamati Morellas",
+    "Richard Smith"
   ],
   "license": "MIT",
   "bugs": {
